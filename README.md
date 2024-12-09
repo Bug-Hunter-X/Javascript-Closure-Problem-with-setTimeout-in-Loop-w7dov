@@ -1,0 +1,1 @@
+This repository demonstrates a common closure problem in JavaScript when using `setTimeout` within a loop.  The provided `bug.js` file contains code exhibiting the issue.  The solution, found in `bugSolution.js`, illustrates how to properly capture the value of `i` using an immediately invoked function expression (IIFE) or `let` within the loop.
